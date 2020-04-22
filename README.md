@@ -1,5 +1,5 @@
 # SuperUFO
-Super UFO is a side-scroller arcade game inspired by Flappy bird.
+Super UFO is a side-scroller arcade game is about control the UFO to avoid the pillar to reach the new high score. This game inspired by Flappy bird. 
 
 **Link to Download:** [Click here](https://drive.google.com/file/d/1mEVbiU6HM_ToSwxtItviUPL5AZhGUf1N/view?usp=sharing)
 
